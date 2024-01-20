@@ -18,7 +18,7 @@ import telethon;from telethon import functions
 from telethon.tl.types import ChannelParticipantsAdmins as cpa
 
 from telethon.tl.functions.channels import CreateChannelRequest as ccr
-mybot = "missrose_bot"
+mybot = "Key_musicbot"
 bot = borg = client
 async def check(channel, uid):
     try:
